@@ -57,6 +57,9 @@ Claude: "Got it — ¥15,000 JPY. What's the approximate USD equivalent?"
 ```
 
 ### 📊 Interactive Dashboard
+
+![Dashboard Screenshot](screenshots/dashboard.png)
+
 A full React dashboard with:
 - Summary cards (income, expenses, net cash flow, receivables, payables)
 - Expense breakdown by category (donut chart)
@@ -93,7 +96,7 @@ Claude warns you about:
 ### Claude Code
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/startup-bookkeeper.git
+git clone https://github.com/vpodugu/startup-bookkeeper.git
 
 # Copy to your skills directory
 cp -r startup-bookkeeper ~/.claude/skills/
